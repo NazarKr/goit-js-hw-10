@@ -18,3 +18,13 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.country-text {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.country-official {
+  font-size: 26px;
+  font-weight: 600;
+}
