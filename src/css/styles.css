@@ -19,6 +19,13 @@ body {
   margin-bottom: 16px;
 }
 
+ul,
+li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
 .country-text {
   font-size: 22px;
   font-weight: 600;
@@ -28,3 +35,14 @@ body {
   font-size: 26px;
   font-weight: 600;
 }
+
+.country-item {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.country-flag {
+  width: 60px;
+}
+
